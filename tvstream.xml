@@ -3,39 +3,40 @@
 <bookstore>
 
 <book category="COOKING">
-  <title lang="en">Everyday Italian</title>
-  <author>Giada De Laurentiis</author>
-  <year>2005</year>
-  <price>30.00</price>
-  <link>http://www.foodnetwork.com/everyday-italian/index.html</link>
+  <title lang="en">TV3</title>
+  <author>http://newstage.onlysmartapps.com/wp-content/uploads/2019/05/jth8aFju_400x400-250x250_96df9c95ea4637979c7e47eca399d33e-e1556958846621.jpg</author>
+  <link>https://hls509700.r-cdn.com/trn_61805/1937/playlist.m3u8</link>
 </book>
 
 <book category="CHILDREN">
-  <title lang="en">Harry Potter</title>
+  <title lang="en">UTV GHANA</title>
   <author>J K. Rowling</author>
-  <year>2005</year>
-  <price>29.99</price>
-  <link>http://en.wikipedia.org/wiki/Harry_Potter</link>
+  <link>https://hls396474.r-cdn.com/trn_61808/1146/playlist.m3u8</link>
 </book>
 
 <book category="WEB">
-  <title lang="en">XQuery Kick Start</title>
+  <title lang="en">NET2TV</title>
   <author>James McGovern</author>
-  <author>Per Bothner</author>
-  <author>Kurt Cagle</author>
-  <author>James Linn</author>
-  <author>Vaidyanathan Nagarajan</author>
-  <year>2003</year>
-  <price>49.99</price>
-  <link>http://www.amazon.com/XQuery-Kick-Start-James-McGovern/dp/0672324792</link>
+  <link>https://www.myziptv.com/livetv/ziptv/net2/playlist.m3u8</link>
 </book>
 
 <book category="WEB">
-  <title lang="en">Learning XML</title>
+  <title lang="en">ROK TV</title>
   <author>Erik T. Ray</author>
-  <year>2003</year>
-  <price>39.95</price>
-  <link>http://www.amazon.com/dp/B00CVDXYQ6</link>
+  <link>https://hls509700.r-cdn.com/trn_61805/1940/playlist.m3u8</link>
 </book>
 
+<book category="WEB">
+  <title lang="en">ADOM TV</title>
+  <author>https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_200/http://newstage.onlysmartapps.com/wp-content/uploads/2019/05/addda.jpg</author>
+  <link>https://www.myziptv.com/livetv/ziptv/adomtv_abr/playlist.m3u8</link>
+</book>
+
+<book category="WEB">
+  <title lang="en">METRO tv</title>
+  <author>Erik T. Ray</author>
+  <link>https://www.myziptv.com/livetv/ziptv/metro/playlist.m3u8</link>
+</book>
 </bookstore>
+
+
